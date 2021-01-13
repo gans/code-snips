@@ -1,1 +1,9 @@
-# code-snips
+Just a place for me to put little bits of code to remind myself of something
+or to illustrate something.
+
+License
+-------
+Unless a file specifically says otherwise, all content is Licensed under the
+terms of the GNU Lesser General Public License (LGPL), version 3 or later.
+
+See COPYING and COPYING.LESSER for details.
